@@ -1,0 +1,30 @@
+{
+  "name": "@njzjz/hexo-sitemap",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepack": "postcss src/sitemap.css > src/sitemap.min.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njzjz/hexo-sitemap.git"
+  },
+  "author": "Jinzhe Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njzjz/hexo-sitemap/issues"
+  },
+  "homepage": "https://github.com/njzjz/hexo-sitemap#readme",
+  "dependencies": {
+    "@njzjz/sitemap": "^0.0.2",
+    "hexo-util": "^2.4.0",
+    "jsdelivr_url": "^0.0.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1"
+  }
+}
