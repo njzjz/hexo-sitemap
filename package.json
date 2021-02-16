@@ -23,8 +23,8 @@
     "jsdelivr_url": "^0.0.1"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
-    "postcss": "^8.2.6",
-    "postcss-cli": "^8.3.1"
+    "cssnano": "4.1.10",
+    "postcss": "8.2.6",
+    "postcss-cli": "8.3.1"
   }
 }
