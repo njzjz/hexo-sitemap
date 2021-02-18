@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@njzjz/sitemap@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@njzjz/sitemap/-/sitemap-0.0.2.tgz#85d7ae7d09b84979f59ca6df63832f50af0860d0"
-  integrity sha512-u9dJpaq5nSx7kYMOaAvhTqMyIENuxZefMQhJzTOJP619F9YWKHxm/UEAzgtFJtDreXxWbL0+23kYec7udqpmzw==
+"@njzjz/sitemap@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@njzjz/sitemap/-/sitemap-0.0.3.tgz#460abd89794c25801580dcc607392eb1c4069eca"
+  integrity sha512-8kXiIKexpAaE8THMi6221QNHQAWNByt+MuREp6y1EaadbIyK3GkKpFJU58r38gmNcsuzcm4M4rJb9uCyR4IKYw==
   dependencies:
     yaml "^1.10.0"
 
